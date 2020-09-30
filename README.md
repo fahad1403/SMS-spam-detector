@@ -1,4 +1,4 @@
-# SMS-spam-detector
+# SMS-spam-detetcor
 Check out the video below to see how the SMS-spam-detector web app works !! :)
 
 
